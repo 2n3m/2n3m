@@ -2,11 +2,11 @@
 
 ### 🔧 N3M Consultancy Services offers expertise in following domains
 
-- __Data Science__ : Analyis, Modeling, Prediction
-- __Omics Analytics__ : Genomics, Transcriptomics, Proteomics, Metabolomics, Lipidomics
-- __Cheminformatics__ : Compound Screening, Fragment based Screening
-- __Research Data Management__ : LIMS, RDM, GDPR
-- __Machine Learning__ : AI Models
+✅ __Data Science__ : Analyis, Modeling, Prediction
+✅ __Omics Analytics__ : Genomics, Transcriptomics, Proteomics, Metabolomics, Lipidomics
+✅ __Cheminformatics__ : Compound Screening, Fragment based Screening
+✅ __Research Data Management__ : LIMS, RDM, GDPR
+✅ __Machine Learning__ : AI Models
 
 ## 📜 Check out completed projects
 `2023`
@@ -29,7 +29,7 @@ An Age-Dependent Sequence of Physiological Processes Defines Developmental Root 
 
 more...
 
-## 💼 Projects carried out at following institutions
+## 💼 Project collaborations at top institutions
 __[CeMM](https://cemm.at) Research Center for Molecular Medcicine__
 
 __[IPK](https://www.ipk-gatersleben.de/) Insitute for Plant Genetics__
