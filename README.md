@@ -23,7 +23,7 @@ and [more...](https://scholar.google.de/citations?user=mY2xSTgAAAAJ&hl=en)
 ## 💼 Projects carried out at following institutions
 __[CeMM](https://cemm.at) Research Center for Molecular Medcicine__, Austria
 
-__[IPK]([https://.at](http://www.ipk-gatersleben.de/) Leibniz Insitute__, Germany
+__[IPK]([https://www.ipk-gatersleben.de/) Leibniz Insitute__, Germany
 
 __[FZB](https://www.fz-borstel.de/) Leibniz Lung Center__, Germany
 
