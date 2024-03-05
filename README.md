@@ -1,12 +1,12 @@
-### Welcome to N3M Consultancy Services 👋
+### Hi there 👋
 
 ### 🔧 N3M offers service in following domains
 
-- Data Science
-- Omics Analytics
-- Cheminformatics
-- Research Data Management
-- Machine Learning
+- __Data Science__
+- __Omics Analytics__
+- __Cheminformatics__
+- __Research Data Management__
+- __Machine Learning__
 
 ## 📜 Check out completed projects
 `2023`
