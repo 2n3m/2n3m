@@ -2,15 +2,15 @@
 
 ## 🔧 Domain Expertise
 
-✅ __Data Science__ : Analyis, Modeling, Prediction
+📊 __Data Science__ : Analyis, Modeling, Prediction [↗️](https://n3m.pages.dev)
 
-✅ __Omics Analytics__ : Genomics, Transcriptomics, Proteomics, Metabolomics, Lipidomics
+🧬 __Omics Analytics__ : Genomics, Transcriptomics, Proteomics, Metabolomics, Lipidomics [↗️](https://n3m.pages.dev/2)
 
-✅ __Cheminformatics__ : Compound Screening, Fragment based Screening
+🧪 __Cheminformatics__ : Compound Screening, Fragment based Screening [↗️](https://n3m.pages.dev/3)
 
-✅ __Research Data Management__ : LIMS, RDM, GDPR
+📂 __Research Data Management__ : LIMS, RDM, GDPR [↗️](https://n3m.pages.dev/5)
 
-✅ __Machine Learning__ : AI Models
+🤖 __Machine Learning__ : AI Models [↗️](https://n3m.pages.dev/6)
 
 
 ## 📜 Completed Projects
@@ -35,7 +35,7 @@ An Age-Dependent Sequence of Physiological Processes Defines Developmental Root 
 
 more...
 
-## 🏛️ Institutional Experience
+## 🏛️ Institutions
 
 [<img src="https://media.licdn.com/dms/image/D4D0BAQEoEiDZCcF_oA/company-logo_200_200/0/1688187604850/cemm_logo?e=1717632000&v=beta&t=Xb1gLQyQrCPbQkBWH1Oo5e1lgowm3Jz3tSn8r3kTWrA" width="100" alt="Logo CeMM"/>](https://cemm.at) 
 [<img src="https://media.licdn.com/dms/image/C4D0BAQEjJ3s2LjdczQ/company-logo_200_200/0/1630515054703/ipk_gatersleben_logo?e=1717632000&v=beta&t=PzAofvn3iFu9B2p44EKGRDpXA25slwaFbhlmyHGbMuc" width="100" alt="Logo IPK"/>](https://www.ipk-gatersleben.de/)
