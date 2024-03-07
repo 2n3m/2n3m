@@ -37,9 +37,9 @@ more...
 
 ## 💼 Institutional Experience
 
-CeMM Research Center for Molecular Medcicine [<img src="https://media.licdn.com/dms/image/C4E0BAQFpYMkGxdeA1w/company-logo_200_200/0/1651475604569/unihamburg_logo?e=2147483647&v=beta&t=3w6yD9iq8OEbGZUfI_iMNrZn2Q8YcONQiwzUbOIA4Rk" width="50"
+CeMM Research Center for Molecular Medcicine [<img src="https://media.licdn.com/dms/image/C4E0BAQFpYMkGxdeA1w/company-logo_200_200/0/1651475604569/unihamburg_logo?e=2147483647&v=beta&t=3w6yD9iq8OEbGZUfI_iMNrZn2Q8YcONQiwzUbOIA4Rk" width="35"
      alt="Logo University of Hamburg"
-     style="float: left; margin-left: 25px;" />](https://cemm.at) 
+     style="float: right; margin-left: 25px;" />](https://cemm.at) 
 
 __[IPK](https://www.ipk-gatersleben.de/) Insitute for Plant Genetics__
 
