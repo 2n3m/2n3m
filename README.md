@@ -1,6 +1,6 @@
-### Hi there 👋
+# N3M Consultancy Services
 
-### 🔧 N3M Consultancy Services offers expertise in following domains
+## 🔧 Domain Expertise
 
 ✅ __Data Science__ : Analyis, Modeling, Prediction
 
@@ -13,7 +13,8 @@
 ✅ __Machine Learning__ : AI Models
 
 
-## 📜 Check out completed projects
+## 📜 Completed Projects
+
 `2023`
 Systemic Inflammation and Normocytic Anemia in DOCK11 Deficiency, [New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2210054)
 
@@ -34,8 +35,11 @@ An Age-Dependent Sequence of Physiological Processes Defines Developmental Root 
 
 more...
 
-## 💼 Project collaborations at top institutions
-__[CeMM](https://cemm.at) Research Center for Molecular Medcicine__
+## 💼 Institutional Experience
+
+CeMM Research Center for Molecular Medcicine  [<img src="https://media.licdn.com/dms/image/C4E0BAQFpYMkGxdeA1w/company-logo_200_200/0/1651475604569/unihamburg_logo?e=2147483647&v=beta&t=3w6yD9iq8OEbGZUfI_iMNrZn2Q8YcONQiwzUbOIA4Rk" width="25"
+     alt="Logo University of Hamburg"
+     style="float: left; margin-right: 10px;" />](https://cemm.at) 
 
 __[IPK](https://www.ipk-gatersleben.de/) Insitute for Plant Genetics__
 
