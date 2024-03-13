@@ -13,7 +13,7 @@
 🤖 __Machine Learning__ : AI Models [↗️](https://n3m.pages.dev/6)
 
 
-## 📜 Completed Projects
+## 📜 Selected Projects
 
 `2023`
 Systemic Inflammation and Normocytic Anemia in DOCK11 Deficiency, [New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2210054)
@@ -33,7 +33,7 @@ Acute BAF perturbation causes immediate changes in chromatin accessibility, [Nat
 `2019`
 An Age-Dependent Sequence of Physiological Processes Defines Developmental Root Senescence, [Plant Physiology](https://doi.org/10.1104/pp.19.00809)
 
-more...
+& more...
 
 ## 🏛️ Institutions
 
