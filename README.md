@@ -1,5 +1,3 @@
-# N3M Consultancy Services
-
 ## 🔧 Domain Expertise
 
 📊 __Data Science__ : Analyis, Modeling, Prediction [↗️](https://n3m.pages.dev)
