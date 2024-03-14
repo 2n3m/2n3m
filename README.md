@@ -47,7 +47,7 @@ An Age-Dependent Sequence of Physiological Processes Defines Developmental Root 
 
 [<img src="https://sportunion.at/wien/wp-content/uploads/sites/10/Logo_ASBOe-300x300.png" width="100" alt="Logo SA-RRT"/>](https://www.samariterbund.net/nationale-internationale-projekte/katastrophenhilfe/) 
 [<img src="https://www.mdrf.in/images/logo.png" width="120" alt="Logo MDRF"/>](https://www.mdrf.in/) 
-[<img src="https://www.precisionmedicine.de/fileadmin/user_upload/forschung/logos/Logo-I-at-I.svg" width="100" alt="Logo German Excellence Cluster"/>](https://www.precisionmedicine.de/de/ueber-den-cluster/inflammation-at-interfaces) 
+[<img src="https://www.precisionmedicine.de/fileadmin/user_upload/forschung/logos/Logo-I-at-I.svg" width="150" alt="Logo German Excellence Cluster"/>](https://www.precisionmedicine.de/de/ueber-den-cluster/inflammation-at-interfaces) 
 
 ##
 Last updated: Mar 2024
