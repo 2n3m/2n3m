@@ -13,11 +13,26 @@
 
 ## 📜 Selected Projects
 
+`2024`
+SAGA Proteomics, [ongoing]()
+
+`2024`
+Hepatic Metabolism in Acromegaly, [ongoing]()
+
+`2024`
+How SARS-CoV-2 is protected from Innate Immunity? [ongoing]()
+
+`2024`
+Tissue-specific Regulatory T cell function in Chronic Inflammation, [Nature (submitted)]()
+
+`2024`
+Large Scale Chemo-Proteomics for Ligand Discovery, [Science (Accepted)]()
+
 `2023`
 Systemic Inflammation and Normocytic Anemia in DOCK11 Deficiency, [New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2210054)
 
 `2022`
-Leptin increases hepatic triglyceride export via a vagal mechanism in humans, [Cell Metabolism](https://doi.org/10.1016/j.cmet.2022.09.020)
+Leptin increases TAG export via a vagal mechanism in humans, [Cell Metabolism](https://doi.org/10.1016/j.cmet.2022.09.020)
 
 `2022`
 Silicon mitigates potassium deficiency, [Environmental and Experimental Botany](https://doi.org/10.1016/j.envexpbot.2022.104849)
