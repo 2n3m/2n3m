@@ -72,6 +72,8 @@ Anti-bacterial and Anti-Endotoxic Peptides of Galleria mellonella, [BBA Biomembr
 [<img src="https://sportunion.at/wien/wp-content/uploads/sites/10/Logo_ASBOe-300x300.png" width="100" alt="Logo SA-RRT"/>](https://www.samariterbund.net/nationale-internationale-projekte/katastrophenhilfe/) 
 [<img src="https://www.mdrf.in/images/logo.png" width="120" alt="Logo MDRF"/>](https://www.mdrf.in/) 
 [<img src="https://www.precisionmedicine.de/fileadmin/user_upload/forschung/logos/Logo-I-at-I.svg" width="150" alt="Logo German Excellence Cluster"/>](https://www.precisionmedicine.de/de/ueber-den-cluster/inflammation-at-interfaces) 
+[<img src="https://join4atmp.eu/user/themes/join4atmp/images/logo.svg" width="120" alt="Logo Join4ATMP"/>](https://join4atmp.eu/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pfizer_%282021%29.svg/250px-Pfizer_%282021%29.svg.png" width="120" alt="Logo Pfizer"/>](https://pfizer.com/) 
 
 ##
 Last updated: Mar 2024
