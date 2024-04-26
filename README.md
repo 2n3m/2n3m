@@ -26,7 +26,7 @@ How SARS-CoV-2 is protected from Innate Immunity? [ongoing]()
 Tissue-specific Regulatory T cell function in Chronic Inflammation, [Nature (submitted)]()
 
 `2024`
-Large Scale Chemo-Proteomics for Ligand Discovery, [Science (Accepted)]()
+Large Scale Chemo-Proteomics for Ligand Discovery, [Science](https://doi.org/10.1126/science.adk5864)
 
 `2023`
 Systemic Inflammation and Normocytic Anemia in DOCK11 Deficiency, [New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2210054)
