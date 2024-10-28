@@ -20,12 +20,6 @@ SAGA Proteomics, [ongoing]()
 Hepatic Metabolism in Acromegaly, [ongoing]()
 
 `2024`
-SARS-CoV-2 Hijacks Human Immune System, [ongoing]()
-
-`2024`
-Metabolite Regulation in Porto-Sinusoidal Vascular Disorder, [ongoing]()
-
-`2024`
 Longitudinal Multi-omics in Postpartum Women in Gestational Diabetes, [Diabetologia (submitted)]()
 
 `2024`
@@ -33,6 +27,12 @@ Molecular Mechanisms of Carfilzomib Resistance in Multiple Myeloma, [Preprint](h
 
 `2024`
 Tissue-specific Regulatory T cell function in Chronic Inflammation, [Preprint](https://doi.org/10.1101/2024.03.25.586519)
+
+`2024`
+SARS-CoV-2 Hijacks Human Immune System, [Emerging Microbes & Infections](https://doi.org/10.1080/22221751.2024.2417868)
+
+`2024`
+Metabolite Regulation in Porto-Sinusoidal Vascular Disorder, [JHEP Reports](https://doi.org/10.1016/j.jhepr.2024.101208)
 
 `2024`
 Large Scale Chemo-Proteomics for Ligand Discovery, [Science](https://doi.org/10.1126/science.adk5864)
