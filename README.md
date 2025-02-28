@@ -26,7 +26,7 @@ Longitudinal Multi-omics in Postpartum Women in Gestational Diabetes, [Diabetolo
 Molecular Mechanisms of Carfilzomib Resistance in Multiple Myeloma, [Preprint](https://doi.org/10.1101/2024.05.26.595929)
 
 `2024`
-Tissue-specific Regulatory T cell function in Chronic Inflammation, [Preprint](https://doi.org/10.1101/2024.03.25.586519)
+Tissue-specific Regulatory T cell function in Chronic Inflammation, [Immunity](https://doi.org/10.1016/j.immuni.2025.02.011)
 
 `2024`
 SARS-CoV-2 Hijacks Human Immune System, [Emerging Microbes & Infections](https://doi.org/10.1080/22221751.2024.2417868)
